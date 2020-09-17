@@ -4,7 +4,7 @@
 
 Hi Humans! 
 
-I'm beginning my travel trough the **programming languages galaxy**
+I'm beginning my travel trough **programming languages galaxy**
 
 Be Kind 
 
